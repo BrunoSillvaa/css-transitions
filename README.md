@@ -1,5 +1,5 @@
 # CSS Transitions
-## Projeto de portifolio simples para treinar implementação de transições utilizando CSS
+## Projeto de portfolio simples para treinar implementação de transições utilizando CSS
 
 ![127 0 0 1_5500_css-transitions html (1)](https://user-images.githubusercontent.com/102771408/169922025-b35024e9-4824-423d-b700-9756ca18d254.png)
 
